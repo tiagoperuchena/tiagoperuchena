@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i0.wp.com/www.memoriabit.com.br/wp-content/uploads/2019/07/super-mario-world-banner-gif.gif?resize=324%2C160&ssl=1))](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400"dsrc="https://i0.wp.com/www.memoriabit.com.br/wp-content/uploads/2019/07/super-mario-world-banner-gif.gif?resize=324%2C160&ssl=1">
 <h1 align="center">Hi 👋, I'm Tiago Peruchena</h1>
 <h3 align="center">a mere apprentice</h3>
 <img align="right" alt="Coding" width="400"dsrc="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">

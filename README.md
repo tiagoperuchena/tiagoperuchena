@@ -6,7 +6,7 @@
 <h5 align="center">a mere apprentice</h5>
 <img align="right" alt="Coding" width="400"src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **go and python**
+- 🌱 I’m currently learning **C and python**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
